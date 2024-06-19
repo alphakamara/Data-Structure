@@ -132,6 +132,12 @@ This project includes:
 - **1. Start to Sort**
 - **4. Back to Main Menu**
 
+### Contributors
+- **1. ALPHA KAMARA**
+- **2. OLU KUNMI THOMAS**
+- **3. SAFFIATU AMADU TUCKER**
+
+
 ## License
 
 This project is licensed under the Limkokwing University License.
