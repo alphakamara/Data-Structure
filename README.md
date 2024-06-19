@@ -77,7 +77,7 @@ This project includes:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/stack-queue-sorting.git
+   git clone https://github.com/alphakamara/Data-Structure.git
    ```
 2. Navigate to the project directory:
    ```sh
